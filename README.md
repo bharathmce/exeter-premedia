@@ -1,7 +1,7 @@
-# Book Translation - Replace all Possible Words in English to French Using Java Program
+# Book Translation - Replace all Possible Words in English to French using Java Program
 
-> Memory :2MB
-Time for Executioin :5 seconds
+> Memory: 2MB <br>
+Time for Executioin: 5 seconds
 
 ```
 Steps:
